@@ -1,4 +1,4 @@
-
+// This is for SingleOne+Launch
 public class Launch {
 
 	public static void main(String[] args) {
